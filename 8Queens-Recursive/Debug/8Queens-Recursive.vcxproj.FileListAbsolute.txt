@@ -1,0 +1,2 @@
+C:\Users\chris\source\repos\8Queens-Recursive\Debug\8Queens-Recursive.exe
+C:\Users\chris\source\repos\8Queens-Recursive\Debug\8Queens-Recursive.pdb

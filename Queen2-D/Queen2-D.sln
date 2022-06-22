@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Queen2-D", "Queen2-D.vcxproj", "{FA5CA580-67B1-4D19-A8CF-B148800087DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA5CA580-67B1-4D19-A8CF-B148800087DA}.Debug|x64.ActiveCfg = Debug|x64
+		{FA5CA580-67B1-4D19-A8CF-B148800087DA}.Debug|x64.Build.0 = Debug|x64
+		{FA5CA580-67B1-4D19-A8CF-B148800087DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{FA5CA580-67B1-4D19-A8CF-B148800087DA}.Debug|x86.Build.0 = Debug|Win32
+		{FA5CA580-67B1-4D19-A8CF-B148800087DA}.Release|x64.ActiveCfg = Release|x64
+		{FA5CA580-67B1-4D19-A8CF-B148800087DA}.Release|x64.Build.0 = Release|x64
+		{FA5CA580-67B1-4D19-A8CF-B148800087DA}.Release|x86.ActiveCfg = Release|Win32
+		{FA5CA580-67B1-4D19-A8CF-B148800087DA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2CD4090-D6BA-4E8A-BA7F-69B9E6905429}
+	EndGlobalSection
+EndGlobal
