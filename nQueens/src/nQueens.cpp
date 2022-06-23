@@ -1,3 +1,13 @@
+/*
+* 
+* This program finds the number of solutions for the following problem:
+*   Place eight queens on a board in such a way that none can attack each other.
+*   No queen is in the diagonal, horizontal, or vertical path of another queen.
+* for board sizes 1x1 - 9x9.
+* 
+* @author Christopher Hardy
+*/
+
 #include <vector>
 #include <string>
 #include <iostream>

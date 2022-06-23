@@ -1,3 +1,13 @@
+/*
+* 
+* This program produces the fibonacci sequence up to the iteration
+* defined by size
+* 
+* @author Christopher Hardy
+* 
+* 
+*/
+
 #include <iostream>
 using namespace std;
 

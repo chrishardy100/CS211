@@ -1,7 +1,16 @@
 /*
-  Notes before starting:
-  Empty spaces are denoted by ' '
-  Spaces occupied by a queen are denoted by '='.
+* 
+* This program finds every solution to the following problem:
+*   Place eight queens on a board in such a way that none can attack each other.
+*   No queen is in the diagonal, horizontal, or vertical path of another queen.
+* and uses a graphic to display the solution.
+* 
+* Notes before starting:
+* Empty spaces are denoted by ' '
+* Spaces occupied by a queen are denoted by '='.
+* 
+* 
+* @author Christopher Hardy
 */
 
 

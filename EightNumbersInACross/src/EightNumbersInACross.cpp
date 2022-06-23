@@ -1,7 +1,16 @@
-
-
-// EightNumbersInACross.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+/*
+* 
+* This program takes eight integers and diplays them as shown below:
+*        # #
+*      # # # #
+*        # #
+* Such that no two adjacent squares contain consecutive integers.
+* 
+* 
+* @author Christopher Hardy
+* 
+* 
+*/
 
 #include <iostream>
 #include <cmath>

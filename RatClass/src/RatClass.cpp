@@ -1,3 +1,13 @@
+/*
+*
+* In this program, the declaration (actually the initalization) Rat x(1,2) declares x to be a variable of
+* type Rat, and represents the fraction 1/2 just like int k = 10, declares and initalizes the variable k.
+*
+*
+* @author Christopher Hardy
+*/
+
+
 #include <iostream>
 using namespace std;
 
