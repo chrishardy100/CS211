@@ -1,2 +1,0 @@
-C:\Users\chris\source\repos\RatClass\Debug\RatClass.exe
-C:\Users\chris\source\repos\RatClass\Debug\RatClass.pdb

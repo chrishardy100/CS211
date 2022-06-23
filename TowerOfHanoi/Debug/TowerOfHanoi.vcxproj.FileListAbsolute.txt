@@ -1,4 +1,0 @@
-C:\Users\chris\source\repos\TowerOfHanoi\Debug\TowerOfHanoi.exe
-C:\Users\chris\source\repos\TowerOfHanoi\Debug\TowerOfHanoi.pdb
-C:\Users\chris\source\repos\CS-211\TowerOfHanoi\Debug\TowerOfHanoi.exe
-C:\Users\chris\source\repos\CS-211\TowerOfHanoi\Debug\TowerOfHanoi.pdb

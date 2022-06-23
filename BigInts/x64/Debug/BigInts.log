@@ -1,5 +1,0 @@
-﻿  BigInts.cpp
-C:\Users\chris\source\repos\BigInts\BigInts.cpp(14,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\chris\source\repos\BigInts\BigInts.cpp(15,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\chris\source\repos\BigInts\BigInts.cpp(15,53): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\chris\source\repos\BigInts\BigInts.cpp(53,16): error C3861: 'append': identifier not found

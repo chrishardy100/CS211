@@ -1,2 +1,0 @@
-C:\Users\chris\source\repos\FancyQueens\Debug\FancyQueens.exe
-C:\Users\chris\source\repos\FancyQueens\Debug\FancyQueens.pdb

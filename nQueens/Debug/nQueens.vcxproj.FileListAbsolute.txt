@@ -1,2 +1,0 @@
-C:\Users\chris\source\repos\nQueens\Debug\nQueens.exe
-C:\Users\chris\source\repos\nQueens\Debug\nQueens.pdb

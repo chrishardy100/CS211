@@ -1,4 +1,0 @@
-C:\Users\chris\source\repos\StableMarrage\Debug\StableMarrage.exe
-C:\Users\chris\source\repos\StableMarrage\Debug\StableMarrage.pdb
-C:\Users\chris\source\repos\CS212\StableMarrage\Debug\StableMarrage.exe
-C:\Users\chris\source\repos\CS212\StableMarrage\Debug\StableMarrage.pdb

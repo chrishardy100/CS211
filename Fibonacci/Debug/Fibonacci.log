@@ -1,7 +1,0 @@
-﻿  Fibonacci.cpp
-C:\Users\chris\source\repos\CS-211\Fibonacci\Fibonacci.cpp(7,25): error C2872: 'size': ambiguous symbol
-C:\Users\chris\source\repos\CS-211\Fibonacci\Fibonacci.cpp(4,11): message : could be 'const int size'
-C:\Users\chris\source\repos\CS-211\Fibonacci\Fibonacci.cpp(7,25): message : or       'size'
-C:\Users\chris\source\repos\CS-211\Fibonacci\Fibonacci.cpp(21,29): error C2872: 'size': ambiguous symbol
-C:\Users\chris\source\repos\CS-211\Fibonacci\Fibonacci.cpp(4,11): message : could be 'const int size'
-C:\Users\chris\source\repos\CS-211\Fibonacci\Fibonacci.cpp(21,29): message : or       'size'

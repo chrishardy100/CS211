@@ -1,2 +1,0 @@
-C:\Users\chris\source\repos\CS212\EightNumbersInACross\Debug\EightNumbersInACross.exe
-C:\Users\chris\source\repos\CS212\EightNumbersInACross\Debug\EightNumbersInACross.pdb
